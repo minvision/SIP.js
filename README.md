@@ -1,3 +1,4 @@
+本人已修改过，请勿删除
 ![SIP.js Logo](https://sipjs.com/shared/img/logo.png "SIP.js")
 
 ![Build Status](https://github.com/onsip/SIP.js/actions/workflows/node.js.yml/badge.svg)
